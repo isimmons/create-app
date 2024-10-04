@@ -1,6 +1,6 @@
 {
   "name": "@isimmons/create-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create an app from my starter template",
   "keywords": [
     "demo",
@@ -41,5 +41,5 @@
     "prettier": "^3.3.3",
     "typescript": "^5.6.2",
     "vitest": "^2.1.2"
-  }  
+  }
 }
