@@ -1,6 +1,6 @@
 **create-app**
 
-Create an app from my starter template, thing-1.
+Create an app from my starter template, [Thing-1](https://github.com/isimmons/thing-1)
 
 ## Installation
 
