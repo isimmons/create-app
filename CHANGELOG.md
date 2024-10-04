@@ -1,5 +1,11 @@
 # @isimmons/tt-package-demo
 
+## 1.0.2
+
+### Patch Changes
+
+- 7c8b3cf: maybe this is it
+
 ## 1.0.1
 
 ### Patch Changes
